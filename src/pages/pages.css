@@ -1,0 +1,8 @@
+.card_item_con {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px; 
+  }
+  .card_item{
+    width: 310px;
+  }

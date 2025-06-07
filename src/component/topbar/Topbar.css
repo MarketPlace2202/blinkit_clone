@@ -1,0 +1,40 @@
+
+.custom-custom_class_nav{
+    border: 1px solid grey;
+    padding: 0px;
+}
+
+.logo_img{
+    width: 110px;
+}
+.nav_container{
+    margin: 0px 20px;
+}
+.user_address_container{
+    border-left: 1px solid grey;
+}
+
+.address_head{
+    font-weight: 900;
+    font-size: 20px;
+    margin:0px
+}
+.nav_dropdown{
+    font-size: 13px;
+}
+.cart_btn{
+    background: gray;
+    color: rgb(243, 241, 241);
+    padding: 13px;
+}
+.cart_btn2{
+    background: rgb(12, 131, 31);
+    color: rgb(243, 241, 241);
+    padding: 13px;
+}
+
+
+.item_search{
+    width: 500px;
+    height: 50px;
+}
